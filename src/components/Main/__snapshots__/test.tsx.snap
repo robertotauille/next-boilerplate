@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> Deve renderizar a descrição 1`] = `
+<main
+  class="style__Wrapper-zegsms-0 kfjnWJ"
+>
+  <h1
+    class="style__Title-zegsms-1 daelfe"
+  >
+    Next.JS Boilerplate
+  </h1>
+  <h2
+    class="style__Description-zegsms-2 fiUoQm"
+  >
+    go go go robertinho!
+  </h2>
+</main>
+`;
+
+exports[`<Main /> Deve renderizar o titulo 1`] = `
+<main
+  class="style__Wrapper-zegsms-0 kfjnWJ"
+>
+  <h1
+    class="style__Title-zegsms-1 daelfe"
+  >
+    Next.JS Boilerplate
+  </h1>
+  <h2
+    class="style__Description-zegsms-2 fiUoQm"
+  >
+    go go go robertinho!
+  </h2>
+</main>
+`;
